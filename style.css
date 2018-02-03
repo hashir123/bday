@@ -1,5 +1,6 @@
+
 body{
-    background-image: url(./img/2.jpg);
+    background-image: url(./img/2.JPG);
     background-size: cover;
     background-position-y: -50px;
     background-repeat: no-repeat;
@@ -17,7 +18,7 @@ body{
 } */
 
 .loginForm1{
-    background-color: rgba(0, 0, 0, 0.692);
+    background-color: rgba(66, 66, 66, 0.692);
     height: 400px;
     width: 300px;
     border-radius:20px; 
@@ -30,17 +31,41 @@ body{
     width: 250px;
     margin-left: 25px;
     position: relative;
-    top: 150px;
+    top: 20px;
     margin-bottom: 30px;
     background-color: transparent;
     border: none;
-    border-bottom: 1px solid #fff;
+    border-bottom: 1.5px solid #fff;
     text-decoration: none;
     color: #fff;
 }
 .forms:focus{
    outline: none;
-   border-bottom:1px solid #ff0000;
+   border-bottom:1.5px solid #ff0000;
+}
+.forms::-webkit-input-placeholder {
+    color: rgb(182, 182, 182);
+}
+.button{
+    width: 250px;
+    height: 30px;
+    position:relative;
+    top: 10px;
+    left: 25px;
+    background-color: rgba(255, 255, 255, 0.397);  
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 5px;    
+
+}
+.dp img{
+    position: relative;
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    margin: 0 auto;
+    left: 70px;
+    top: 10px;
 }
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px){
