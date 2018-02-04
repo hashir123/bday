@@ -47,10 +47,12 @@ a:hover{
     body{
         width: 100%;
         overflow-x: hidden;
+        margin: 0 auto;
     }
     .container{
-        width: 100%;
+        width: 300px;
         margin: 0 auto;
+        overflow-x: hidden;
     }
     a{
         display: block;
