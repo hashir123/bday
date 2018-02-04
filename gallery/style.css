@@ -43,3 +43,11 @@ a:hover{
 .img8{
     background-image: url(./dist/images/7.jpg);
 }
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px){
+    .container{
+        width: 320px;
+    }
+    a{
+        display: block;
+    }
+}
