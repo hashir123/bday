@@ -16,33 +16,194 @@ a{
     transition: all 0.5s ease-in-out;
 }
 a:hover{
-    filter: grayscale(0);
+    filter: grayscale(0.5);
     transform: scale(1.1);
 }
+.img0{
+    background-image: url(./dist/images/0.png);
+}
 .img1{
-    background-image: url(./dist/images/0.jpg);
+    background-image: url(./dist/images/1.png);
 }
 .img2{
-    background-image: url(./dist/images/1.jpg);
+    background-image: url(./dist/images/2.png);
 }
 .img3{
-    background-image: url(./dist/images/2.jpg);
+    background-image: url(./dist/images/3.png);
 }
 .img4{
-    background-image: url(./dist/images/3.jpg);
+    background-image: url(./dist/images/4.png);
 }
 .img5{
-    background-image: url(./dist/images/4.jpg);
+    background-image: url(./dist/images/5.png);
 }
 .img6{
-    background-image: url(./dist/images/5.jpg);
+    background-image: url(./dist/images/6.png);
 }
 .img7{
-    background-image: url(./dist/images/6.jpg);
+    background-image: url(./dist/images/7.png);
 }
 .img8{
-    background-image: url(./dist/images/7.jpg);
+    background-image: url(./dist/images/8.png);
 }
+.img9{
+    background-image: url(./dist/images/9.png);
+}
+.img10{
+    background-image: url(./dist/images/10.png);
+}
+.img11{
+    background-image: url(./dist/images/11.png);
+}
+.img12{
+    background-image: url(./dist/images/12.png);
+}
+.img13{
+    background-image: url(./dist/images/13.png);
+}
+.img14{
+    background-image: url(./dist/images/14.png);
+}
+.img15{
+    background-image: url(./dist/images/15.png);
+}
+.img16{
+    background-image: url(./dist/images/16.png);
+}
+.img17{
+    background-image: url(./dist/images/17.png);
+}
+.img18{
+    background-image: url(./dist/images/18.png);
+}
+.img19{
+    background-image: url(./dist/images/19.png);
+}
+.img20{
+    background-image: url(./dist/images/20.png);
+}
+.img21{
+    background-image: url(./dist/images/21.png);
+}
+.img22{
+    background-image: url(./dist/images/22.png);
+}
+.img23{
+    background-image: url(./dist/images/23.png);
+}
+.img24{
+    background-image: url(./dist/images/24.png);
+}
+.img25{
+    background-image: url(./dist/images/25.png);
+}
+.img26{
+    background-image: url(./dist/images/26.png);
+}
+.img27{
+    background-image: url(./dist/images/27.png);
+}
+.img28{
+    background-image: url(./dist/images/28.png);
+}
+.img29{
+    background-image: url(./dist/images/29.png);
+}
+.img30{
+    background-image: url(./dist/images/30.png);
+}
+.img31{
+    background-image: url(./dist/images/31.png);
+}
+.img32{
+    background-image: url(./dist/images/32.png);
+}
+.img33{
+    background-image: url(./dist/images/33.png);
+}
+.img34{
+    background-image: url(./dist/images/34.png);
+}
+.img35{
+    background-image: url(./dist/images/35.png);
+}
+.img36{
+    background-image: url(./dist/images/36.png);
+}
+.img37{
+    background-image: url(./dist/images/37.png);
+}
+.img38{
+    background-image: url(./dist/images/38.png);
+}
+.img39{
+    background-image: url(./dist/images/39.png);
+}
+.img40{
+    background-image: url(./dist/images/40.png);
+}
+.img41{
+    background-image: url(./dist/images/41.png);
+}
+.img42{
+    background-image: url(./dist/images/42.png);
+}
+.img43{
+    background-image: url(./dist/images/43.png);
+}
+.img44{
+    background-image: url(./dist/images/44.png);
+}
+.img45{
+    background-image: url(./dist/images/45.png);
+}
+.img46{
+    background-image: url(./dist/images/46.png);
+}
+.img47{
+    background-image: url(./dist/images/47.png);
+}
+.img48{
+    background-image: url(./dist/images/48.png);
+}
+.img49{
+    background-image: url(./dist/images/49.png);
+}
+.img50{
+    background-image: url(./dist/images/50.png);
+}
+.img51{
+    background-image: url(./dist/images/51.png);
+}
+.img52{
+    background-image: url(./dist/images/52.png);
+}
+.img53{
+    background-image: url(./dist/images/53.png);
+}
+.img54{
+    background-image: url(./dist/images/54.png);
+}
+.img55{
+    background-image: url(./dist/images/55.png);
+}
+.img56{
+    background-image: url(./dist/images/56.png);
+}
+.img57{
+    background-image: url(./dist/images/57.png);
+}
+.img58{
+    background-image: url(./dist/images/58.png);
+}
+.img59{
+    background-image: url(./dist/images/59.png);
+}
+.img60{
+    background-image: url(./dist/images/60.png);
+}
+
+
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px){
     body{
         width: 100%;
